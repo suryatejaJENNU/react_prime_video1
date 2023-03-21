@@ -1,0 +1,16 @@
+.prime-image {
+  height: 300px;
+  width: 100%;
+}
+.bg-container {
+  background-color: #000000;
+
+  background-size: cover;
+}
+.main-heading {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 30px;
+  margin: 5px;
+}

@@ -1,0 +1,13 @@
+.thumnail {
+  height: 170px;
+  width: 250px;
+}
+.popup-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.responsive-container {
+  height: 200px;
+  width: 200px;
+}
